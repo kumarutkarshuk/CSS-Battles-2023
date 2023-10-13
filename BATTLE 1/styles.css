@@ -22,7 +22,7 @@ img{
 }
 
 .a{
-   background: purple;
+   background: #4E3A93;
    width: 200px;
    height: 200px;
    position: fixed;
@@ -34,7 +34,7 @@ img{
 }
 
 .b{
-    background: purple;
+    background: #4E3A93;
     width: 200px;
     height: 200px;
    position: fixed;
@@ -64,7 +64,7 @@ img{
 }
 
 .e{
-    background: gold;
+    background: #D5B201;
     width: 200px;
     height: 200px;
     position: fixed;
@@ -77,7 +77,7 @@ img{
  }
  
  .f{
-     background: gold;
+     background: #D5B201;
      width: 200px;
      height: 200px;
     position: fixed;
@@ -108,7 +108,7 @@ img{
  }
 
  .i{
-    background: darkgreen;
+    background: #079A3F;
     width: 120px;
     height: 120px;
     position: fixed;
@@ -121,7 +121,7 @@ img{
  }
  
  .j{
-     background: darkgreen;
+     background: #079A3F;
      width: 120px;
      height: 120px;
     position: fixed;
