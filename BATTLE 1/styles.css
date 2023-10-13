@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    
+    /* background-repeat: no-repeat;
+    background-image: url("./sun.png");
+    background-position-x: center;
+    background-size: 20%; */
+}   
+
+img{
+    scale:0.5;
+    position: fixed;
+    left: 233px;
+    top:-55px;
+    z-index: +1;
+    
+}
+
+.a{
+   background: purple;
+   width: 200px;
+   height: 200px;
+   position: fixed;
+   top: 130px;
+   left: 185px;
+   border-radius: 500px 0px 0px 0px;
+   
+
+}
+
+.b{
+    background: purple;
+    width: 200px;
+    height: 200px;
+   position: fixed;
+   top: 330px;
+   left: 185px;
+   border-radius: 0px 0px 0px 500px;
+}
+
+.c{
+    background: white;
+   width: 100px;
+   height: 100px;
+   position: fixed;
+   top: 330px;
+   left: 300px;
+   border-radius: 500px 0px 0px 0px;
+}
+
+.d{
+    background: white;
+    width:  100px;
+    height: 100px;
+   position: fixed;
+   top: 430px;
+   left: 300px;
+   border-radius: 0px 0px 0px 500px;
+}
+
+.e{
+    background: gold;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 20px;
+    left: 385px;
+    border-radius: 0px 500px 0px 0px;
+    z-index: -1;
+    
+ 
+ }
+ 
+ .f{
+     background: gold;
+     width: 200px;
+     height: 200px;
+    position: fixed;
+    top: 210px;
+    left: 385px;
+    border-radius: 0px 0px 500px 0px;
+ }
+ 
+ .g{
+     background: white;
+     z-index: -1;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 20px;
+    left: 385px;
+    border-radius: 0px 500px 0px 0px;
+ }
+ 
+ .h{
+     background: white;
+     width:  100px;
+     height: 100px;
+    position: fixed;
+    top: 120px;
+    left: 385px;
+    border-radius: 0px 0px 500px 0px;
+ }
+
+ .i{
+    background: darkgreen;
+    width: 120px;
+    height: 120px;
+    position: fixed;
+    top: 410px;
+    left: 385px;
+    border-radius: 0px 500px 0px 0px;
+    z-index: -1;
+    
+ 
+ }
+ 
+ .j{
+     background: darkgreen;
+     width: 120px;
+     height: 120px;
+    position: fixed;
+    top: 530px;
+    left: 385px;
+    border-radius: 0px 0px 500px 0px;
+ }
+ 
+ .k{
+     background: white;
+    width:80px;
+    height: 80px;
+    position: fixed;
+    top: 490px;
+    left: 385px;
+    border-radius: 0px 500px 0px 0px;
+ }
+ 
+ .l{
+     background: white;
+     width:  80px;
+     height: 80px;
+    position: fixed;
+    top: 570px;
+    left: 385px;
+    border-radius: 0px 0px 500px 0px;
+ }
